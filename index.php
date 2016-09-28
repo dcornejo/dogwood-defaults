@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>inactive site</title>
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Nixie+One">
 
     <style type="text/css">
