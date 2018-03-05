@@ -39,7 +39,7 @@
     if you feel this is an error
 </p>
 <p>
-    Seeing this page does not imply that the URL is for sale.
+    This URL is not for sale. There's more to the internet than web sites.
 </p>
 </body>
 </html>
